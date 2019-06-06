@@ -1,0 +1,6 @@
+/home/nikolay/Документы/Seminars and Labs/Lab2_Var7/Lab2_Var7/Lab2_Var7/bin/Debug/Lab2_Var7.exe
+/home/nikolay/Документы/Seminars and Labs/Lab2_Var7/Lab2_Var7/Lab2_Var7/bin/Debug/Lab2_Var7.pdb
+/home/nikolay/Документы/Seminars and Labs/Lab2_Var7/Lab2_Var7/Lab2_Var7/obj/x86/Debug/Lab2_Var7.csprojAssemblyReference.cache
+/home/nikolay/Документы/Seminars and Labs/Lab2_Var7/Lab2_Var7/Lab2_Var7/obj/x86/Debug/Lab2_Var7.csproj.CoreCompileInputs.cache
+/home/nikolay/Документы/Seminars and Labs/Lab2_Var7/Lab2_Var7/Lab2_Var7/obj/x86/Debug/Lab2_Var7.exe
+/home/nikolay/Документы/Seminars and Labs/Lab2_Var7/Lab2_Var7/Lab2_Var7/obj/x86/Debug/Lab2_Var7.pdb

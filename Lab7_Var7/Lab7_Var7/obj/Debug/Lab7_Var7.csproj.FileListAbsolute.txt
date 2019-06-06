@@ -1,0 +1,10 @@
+K:\Универ\Программирование\Lab7_Var7\Lab7_Var7\bin\Debug\Lab7_Var7.exe.config
+K:\Универ\Программирование\Lab7_Var7\Lab7_Var7\bin\Debug\Lab7_Var7.exe
+K:\Универ\Программирование\Lab7_Var7\Lab7_Var7\bin\Debug\Lab7_Var7.pdb
+K:\Универ\Программирование\Lab7_Var7\Lab7_Var7\obj\Debug\Lab7_Var7.csprojAssemblyReference.cache
+K:\Универ\Программирование\Lab7_Var7\Lab7_Var7\obj\Debug\Lab7_Var7.Form1.resources
+K:\Универ\Программирование\Lab7_Var7\Lab7_Var7\obj\Debug\Lab7_Var7.Properties.Resources.resources
+K:\Универ\Программирование\Lab7_Var7\Lab7_Var7\obj\Debug\Lab7_Var7.csproj.GenerateResource.cache
+K:\Универ\Программирование\Lab7_Var7\Lab7_Var7\obj\Debug\Lab7_Var7.csproj.CoreCompileInputs.cache
+K:\Универ\Программирование\Lab7_Var7\Lab7_Var7\obj\Debug\Lab7_Var7.exe
+K:\Универ\Программирование\Lab7_Var7\Lab7_Var7\obj\Debug\Lab7_Var7.pdb

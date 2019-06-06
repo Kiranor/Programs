@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FEE1C9B1-C399-4A66-A52A-EB63D8A85DC0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3_Var2/BaseClass_Base.cs">
+    <Files>
+      <File FileName="Lab3_Var2/Program.cs" Line="21" Column="13" />
+      <File FileName="Lab3_Var2/DerClass_Paral.cs" Line="9" Column="9" />
+      <File FileName="Lab3_Var2/BaseClass_Base.cs" Line="6" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3_Var2" expanded="True">
+            <Node name="Lab3_Var2" expanded="True">
+              <Node name="BaseClass_Base.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab3__Var2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

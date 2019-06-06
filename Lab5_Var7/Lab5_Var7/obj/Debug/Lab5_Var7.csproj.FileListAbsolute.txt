@@ -1,0 +1,20 @@
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab5_Var7\Lab5_Var7\bin\Debug\Lab5_Var7.exe.config
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab5_Var7\Lab5_Var7\bin\Debug\Lab5_Var7.exe
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab5_Var7\Lab5_Var7\bin\Debug\Lab5_Var7.pdb
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.csprojAssemblyReference.cache
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.Form1.resources
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.Properties.Resources.resources
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.csproj.GenerateResource.cache
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.csproj.CoreCompileInputs.cache
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.exe
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.pdb
+K:\Универ\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.exe
+K:\Универ\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.pdb
+K:\Универ\Программирование\Lab5_Var7\Lab5_Var7\bin\Debug\Lab5_Var7.exe.config
+K:\Универ\Программирование\Lab5_Var7\Lab5_Var7\bin\Debug\Lab5_Var7.exe
+K:\Универ\Программирование\Lab5_Var7\Lab5_Var7\bin\Debug\Lab5_Var7.pdb
+K:\Универ\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.csprojAssemblyReference.cache
+K:\Универ\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.Form1.resources
+K:\Универ\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.Properties.Resources.resources
+K:\Универ\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.csproj.GenerateResource.cache
+K:\Универ\Программирование\Lab5_Var7\Lab5_Var7\obj\Debug\Lab5_Var7.csproj.CoreCompileInputs.cache

@@ -1,0 +1,20 @@
+/home/nikolay/Документы/Seminars and Labs/Lab3_Var2/Lab3_Var2/Lab3_Var2/obj/x86/Debug/Lab3_Var2.csprojAssemblyReference.cache
+/home/nikolay/Документы/Seminars and Labs/Lab3_Var2/Lab3_Var2/Lab3_Var2/obj/x86/Debug/Lab3_Var2.csproj.CoreCompileInputs.cache
+/home/nikolay/Документы/Seminars and Labs/Lab3_Var2/Lab3_Var2/Lab3_Var2/bin/Debug/Lab3_Var2.exe
+/home/nikolay/Документы/Seminars and Labs/Lab3_Var2/Lab3_Var2/Lab3_Var2/bin/Debug/Lab3_Var2.pdb
+/home/nikolay/Документы/Seminars and Labs/Lab3_Var2/Lab3_Var2/Lab3_Var2/obj/x86/Debug/Lab3_Var2.exe
+/home/nikolay/Документы/Seminars and Labs/Lab3_Var2/Lab3_Var2/Lab3_Var2/obj/x86/Debug/Lab3_Var2.pdb
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\bin\Debug\Lab3_Var2.exe.config
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\bin\Debug\Lab3_Var2.exe
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\bin\Debug\Lab3_Var2.pdb
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\obj\x86\Debug\Lab3_Var2.csprojAssemblyReference.cache
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\obj\x86\Debug\Lab3_Var2.csproj.CoreCompileInputs.cache
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\obj\x86\Debug\Lab3_Var2.exe
+D:\USATU\1 Курс\2 Семестр\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\obj\x86\Debug\Lab3_Var2.pdb
+K:\Универ\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\bin\Debug\Lab3_Var2.exe.config
+K:\Универ\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\bin\Debug\Lab3_Var2.exe
+K:\Универ\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\bin\Debug\Lab3_Var2.pdb
+K:\Универ\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\obj\x86\Debug\Lab3_Var2.csprojAssemblyReference.cache
+K:\Универ\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\obj\x86\Debug\Lab3_Var2.csproj.CoreCompileInputs.cache
+K:\Универ\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\obj\x86\Debug\Lab3_Var2.exe
+K:\Универ\Программирование\Lab3_Var2\Lab3_Var2\Lab3_Var2\obj\x86\Debug\Lab3_Var2.pdb
